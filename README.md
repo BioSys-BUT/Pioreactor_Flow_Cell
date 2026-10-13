@@ -56,6 +56,7 @@ These keys appear in **Advanced** when you start the job. The dialog is titled w
 **Flow cell** is listed with the other jobs. **Start** runs both selected pumps. **Stop** turns both off and releases the PWM pins.
 
 ![Flow cell in the Activities list](./images/activities-flow-cell.png)
+![Flow cell in the Overview](./images/overview-flow-cell.png)
 
 *Upload `images/activities-flow-cell.png`: the Activities list with the Flow cell row and its Start button.*
 
