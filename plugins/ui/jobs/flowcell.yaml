@@ -1,0 +1,13 @@
+---
+display_name: Flow cell
+job_name: flowcell
+display: true
+source: flowcell
+description: Run two pumps together to circulate liquid through a flow cell. One speed value drives both pumps.
+published_settings:
+  - key: speed_percent
+    unit: "%"
+    label: Flow speed
+    description: PWM duty cycle sent to both pumps. On start this is the calibrated duty cycle, for example 50. Set another value to run slower or faster than that calibration. 0 holds both motors off without stopping the job.
+    type: numeric
+    display: true
