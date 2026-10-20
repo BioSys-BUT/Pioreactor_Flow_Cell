@@ -58,7 +58,6 @@ These keys appear in **Advanced** when you start the job. The dialog is titled w
 ![Flow cell in the Activities list](./images/activities-flow-cell.png)
 ![Flow cell in the Overview](./images/overview-flow-cell.png)
 
-*Upload `images/activities-flow-cell.png`: the Activities list with the Flow cell row and its Start button.*
 
 ### Advanced, before start
 
@@ -66,7 +65,6 @@ These keys appear in **Advanced** when you start the job. The dialog is titled w
 
 ![Advanced start dialog](./images/advanced-start.png)
 
-*Upload `images/advanced-start.png`: the Advanced dialog with `pumps`, `max_runtime_min`, and `speed_percent`.*
 
 ### Pioreactors card, while running
 
@@ -74,7 +72,6 @@ After the job is on, **Flow cell** shows **On**. **Flow speed** in the settings 
 
 ![Flow speed on the Pioreactors card](./images/pioreactors-flow-speed.png)
 
-*Upload `images/pioreactors-flow-speed.png`: the Pioreactors card with Flow cell On and the Flow speed setting.*
 
 ## How it runs
 
